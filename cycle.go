@@ -24,7 +24,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"go.uber.org/dig/internal/digreflect"
+	"github.com/RobyFerro/dig/internal/digreflect"
 )
 
 type cycleEntry struct {
